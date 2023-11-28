@@ -652,6 +652,12 @@ ul {
 	align-items: start;
 }
 
+.setup-guide .guide-list .guide.active .content-wrapper .products {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+}
+
 .setup-guide .guide-list .guide.active {
 	background: var(--grey-g-300);
 	border-radius: 10px;
